@@ -27,7 +27,7 @@ Calculadora de IMC foi um aplicativo que desenvolvi para dar meus primeiros pass
 - Melhorar estilização do app
 
 ## Author
-Denner Costa Teixeira de Lira (Follow me on [LinkedIN]((https://www.linkedin.com/in/dennercosta1/))
+Denner Costa Teixeira de Lira (Follow me on [LinkedIN](https://www.linkedin.com/in/dennercosta1/))
 
 ## License
 ```
